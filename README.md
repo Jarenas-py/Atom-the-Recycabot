@@ -58,7 +58,3 @@ Please refer to the diagrams below for detailed connections.
 * **Geo Kentzer Gutierrez**
 * **Lian Gil B. Pacis**
 * **Jordan Recaña**
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
